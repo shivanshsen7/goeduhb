@@ -1,4 +1,4 @@
-# goeduhb
+# GoEduHub
 Questions solved for GoEduHub.com
 <table>
     <tr>
